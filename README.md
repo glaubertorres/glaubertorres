@@ -24,7 +24,6 @@ Formado em Produção de Áudio e Vídeo pela ETEC Jornalista Roberto Marinho, t
 <div align="left">
   <a href="https://github.com/glaubertorres">
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=glaubertorres&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <br>
   <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaubertorres&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
     
