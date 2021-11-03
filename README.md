@@ -18,6 +18,8 @@ Formado em Produção de Áudio e Vídeo pela ETEC Jornalista Roberto Marinho, t
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <div> 
  
+ ##
+
 </div>
 <div align="left">
   <a href="https://github.com/glaubertorres">
