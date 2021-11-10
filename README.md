@@ -21,14 +21,14 @@ Formado em Produção de Áudio e Vídeo pela ETEC Jornalista Roberto Marinho, t
  ##
 
 </div>
+ 
 <div align="left">
   <a href="https://github.com/glaubertorres">
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=glaubertorres&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaubertorres&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-    
-   <!--
 
+  <!--
 <img align="right" width="420" height="420" src="https://i.imgur.com/K5gbbpZ.png">
 <br><br>
 
@@ -40,10 +40,10 @@ Formado em Produção de Áudio e Vídeo pela ETEC Jornalista Roberto Marinho, t
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
     
  
- 
+ <!--
  ![Snake animation](https://github.com/glaubertorres/glaubertorres/blob/output/github-contribution-grid-snake.svg)
  
 </div>
