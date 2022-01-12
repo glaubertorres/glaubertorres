@@ -1,23 +1,20 @@
   <!--
 <img align="right" width="420" height="420" src="https://i.imgur.com/K5gbbpZ.png">
-<br><br>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<br><br
     
  
 -->
 <div>   
- 
+  
+  ## Hi, my name is Glauber! Im a java back-end developer
+  
+- 🌱 I’m also currently learning to develop ethereum smart contracts
+- 👯 I’m looking foward to collaborate on projects build mostly on java and spring boot, but I'm open to other technologies and Im exited to learn new things
   
   
+  
+- 📫 How to reach me:
+  <br>
   <a href = "mailto:gthierrytorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/glauberttorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
