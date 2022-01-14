@@ -8,7 +8,6 @@
   
   ## Hi, my name is Glauber! Im a java back-end developer
   
-- 🌱 I’m also currently learning to develop ethereum smart contracts
 - 👯 I’m looking foward to collaborate on projects build mostly on java and spring boot, but I'm open to other technologies and Im exited to learn new things
   
   
